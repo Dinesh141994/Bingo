@@ -1,0 +1,1 @@
+typedef void SelectedNumber(int selectedNumber);

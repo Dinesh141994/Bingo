@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "330694484969",
+    "firebase_url": "https://bingo-e174d.firebaseio.com",
+    "project_id": "bingo-e174d",
+    "storage_bucket": "bingo-e174d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330694484969:android:d1b6a0e763d7715b15e178",
+        "android_client_info": {
+          "package_name": "com.navoki.my_bingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330694484969-8qvbc9ad3b5mldu2hcp9j6182ovmn2fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.navoki.my_bingo",
+            "certificate_hash": "3c1eec8280fe809059af7c21e2e81714c8a691e9"
+          }
+        },
+        {
+          "client_id": "330694484969-eeo39meagk2srqligtk0la0glmrm598k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPC2ppXRhd3n5Og4VEalv0atnVMmketKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330694484969-eeo39meagk2srqligtk0la0glmrm598k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
